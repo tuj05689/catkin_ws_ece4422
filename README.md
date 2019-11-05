@@ -2,7 +2,7 @@
 
 follow https://github.com/altosz/rpisensors directions and install rpisensors
 
-git clone https://github.com/tuj05689/catkin_ws_ece4422/edit/master/README.md
+git clone https://github.com/tuj05689/catkin_ws_ece4422
 
 in catkin_ws_ece4422 dir
 # catkin make
